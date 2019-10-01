@@ -3,7 +3,7 @@ import basicStats
 lottoHistoryFile = './data/lotto_history.csv'
 
 def main():
-    basicStats.getPdProfilingStats(lottoHistoryFile)
+    basicStats.getPdPLottStats(lottoHistoryFile)
 
 
 if __name__ == "__main__":
