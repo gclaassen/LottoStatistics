@@ -3,6 +3,15 @@
     "python.linting.pylintEnabled": true,
     "python.linting.enabled": true,
     "workbench.colorCustomizations": {
-        "tab.unfocusedActiveBorder": "#fff0"
-    }
+        "activityBar.background": "#94cbda",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#c659ae",
+        "activityBarBadge.foreground": "#15202b",
+        "panel.border": "#94cbda",
+        "sideBar.border": "#94cbda",
+        "editorGroup.border": "#94cbda",
+        "tab.activeBorder": "#94cbda"
+    },
+    "peacock.color": "#6eb8cd"
 }
