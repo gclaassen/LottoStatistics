@@ -1,3 +1,3 @@
-# lotto-statistics
+# WIP
 
-## WIP
+# lotto-statistics
