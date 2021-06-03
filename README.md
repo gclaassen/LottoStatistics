@@ -1,3 +1,3 @@
 # lotto-statistics
 
-*in development*
+## WIP
